@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|c:\\users\\renren\\documents\\new folder\\github\\broconsole\\practice\\simplecalcu\\simplecalcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|solutionrelative:simplecalcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|c:\\users\\renren\\documents\\new folder\\github\\broconsole\\practice\\simplecalcu\\simplecalcu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|solutionrelative:simplecalcu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|c:\\users\\renren\\documents\\new folder\\github\\broconsole\\practice\\simplecalcu\\simplecalcu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|solutionrelative:simplecalcu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|c:\\users\\renren\\documents\\new folder\\github\\broconsole\\practice\\simplecalcu\\simplecalcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D06B0B4-A9F0-4FB6-8D40-8FDD938DD959}|simpleCalcu\\simpleCalcu.csproj|solutionrelative:simplecalcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Form1.cs",
+              "RelativeDocumentMoniker": "simpleCalcu\\Form1.cs",
+              "ToolTip": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Form1.cs*",
+              "RelativeToolTip": "simpleCalcu\\Form1.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAkwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:21:33.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "simpleCalcu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Form1.Designer.cs*",
+              "RelativeToolTip": "simpleCalcu\\Form1.Designer.cs*",
+              "ViewState": "AgIAALMAAAAAAAAAAAAtwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:07:48.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Program.cs",
+              "RelativeDocumentMoniker": "simpleCalcu\\Program.cs",
+              "ToolTip": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Program.cs",
+              "RelativeToolTip": "simpleCalcu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:30:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Form1.cs",
+              "RelativeDocumentMoniker": "simpleCalcu\\Form1.cs",
+              "ToolTip": "C:\\Users\\renren\\Documents\\New folder\\github\\BroConsole\\Practice\\simpleCalcu\\simpleCalcu\\Form1.cs [Design]*",
+              "RelativeToolTip": "simpleCalcu\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:14:14.366Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

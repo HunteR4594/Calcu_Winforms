@@ -1,0 +1,16 @@
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\bin\Debug\net8.0-windows\simpleCalcu.exe
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\bin\Debug\net8.0-windows\simpleCalcu.deps.json
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\bin\Debug\net8.0-windows\simpleCalcu.runtimeconfig.json
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\bin\Debug\net8.0-windows\simpleCalcu.dll
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\bin\Debug\net8.0-windows\simpleCalcu.pdb
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.Form1.resources
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.csproj.GenerateResource.cache
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.AssemblyInfoInputs.cache
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.AssemblyInfo.cs
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.csproj.CoreCompileInputs.cache
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.dll
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\refint\simpleCalcu.dll
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.pdb
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\simpleCalcu.genruntimeconfig.cache
+C:\Users\renren\Documents\New folder\github\BroConsole\Practice\simpleCalcu\simpleCalcu\obj\Debug\net8.0-windows\ref\simpleCalcu.dll
